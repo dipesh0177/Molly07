@@ -355,4 +355,4 @@ client.on('message', message =>{
     }
 });
 
-client.login(yourtoken)
+client.login(your_token)
